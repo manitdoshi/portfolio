@@ -93,4 +93,20 @@ body {
     padding: 1em;
     margin-top: 2em;
   }
-  
+  .about {
+  padding: 3em 2em;
+  background-color: #ffffff;
+  color: #333;
+  line-height: 1.6;
+}
+
+.about .container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.about h2 {
+  font-size: 2em;
+  margin-bottom: 1em;
+  text-align: center;
+}
